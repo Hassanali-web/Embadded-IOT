@@ -1,5 +1,5 @@
 
-//23-NTU-CS-1030
+//23-NTU-CS-1036
 
 // Program to Turn both lights on when the button clicks
 #include <Arduino.h>
