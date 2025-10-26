@@ -1,5 +1,5 @@
 
-// 23-NTU-CS-1030
+// 23-NTU-CS-1036
 
 //  This code sets up an ESP32 hardware timer to 
 //  toggle an LED every 1 second using an interrupt.
